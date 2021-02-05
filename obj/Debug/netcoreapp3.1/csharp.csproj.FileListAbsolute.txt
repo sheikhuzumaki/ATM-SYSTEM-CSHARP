@@ -1,0 +1,24 @@
+C:\Users\AES\Desktop\csharp\bin\Debug\netcoreapp3.1\csharp.exe
+C:\Users\AES\Desktop\csharp\bin\Debug\netcoreapp3.1\csharp.deps.json
+C:\Users\AES\Desktop\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+C:\Users\AES\Desktop\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+C:\Users\AES\Desktop\csharp\bin\Debug\netcoreapp3.1\csharp.dll
+C:\Users\AES\Desktop\csharp\bin\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\AES\Desktop\csharp\obj\Debug\netcoreapp3.1\csharp.csprojAssemblyReference.cache
+C:\Users\AES\Desktop\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+C:\Users\AES\Desktop\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+C:\Users\AES\Desktop\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+C:\Users\AES\Desktop\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\AES\Desktop\csharp project\bin\Debug\netcoreapp3.1\csharp.exe
+C:\Users\AES\Desktop\csharp project\bin\Debug\netcoreapp3.1\csharp.deps.json
+C:\Users\AES\Desktop\csharp project\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+C:\Users\AES\Desktop\csharp project\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+C:\Users\AES\Desktop\csharp project\bin\Debug\netcoreapp3.1\csharp.dll
+C:\Users\AES\Desktop\csharp project\bin\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\AES\Desktop\csharp project\obj\Debug\netcoreapp3.1\csharp.csprojAssemblyReference.cache
+C:\Users\AES\Desktop\csharp project\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+C:\Users\AES\Desktop\csharp project\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+C:\Users\AES\Desktop\csharp project\obj\Debug\netcoreapp3.1\csharp.dll
+C:\Users\AES\Desktop\csharp project\obj\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\AES\Desktop\csharp project\obj\Debug\netcoreapp3.1\csharp.csproj.CoreCompileInputs.cache
+C:\Users\AES\Desktop\csharp project\obj\Debug\netcoreapp3.1\csharp.genruntimeconfig.cache
